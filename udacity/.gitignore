@@ -1,0 +1,7 @@
+notMNIST_large*
+notMNIST_small*
+.ropeproject
+*.pickle
+*.zip
+text8
+MNIST_data
